@@ -48,16 +48,16 @@
 
         <section class="page-body">
             <div class="cards">
-                <% for (var i=0; i < county.length; i++ ) {%>
-                    <a href="<%= county[i].url %>" target="_blank">
+                <% for (i of versao_data ) {%>
+                    <a href="<%= i.url %>" target="_blank">
                         <div id="card">
                             <div class="card-img">
-                                <img src="<%= county[i].brasao %>" alt="Brasão Município de <%= county[i].municipio %>">
+                                <img src="<%= i.brasao %>" alt="Brasão Município de <%= i.municipio %>">
                             </div>
                             <div class="card-text">
-                                <h3 class="card-title"><%= county[i].municipio %></h3>
-                                <p class="card-version" data-title="<%= versao_data[i].date %>">
-                                    <%= versao_data[i].version %>
+                                <h3 class="card-title"><%= i.municipio %></h3>
+                                <p class="card-version" data-title="<%= i.municipio %>">
+                                    <%= i.version %>
                                 </p>
                             </div>
                         </div>

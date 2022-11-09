@@ -9,18 +9,31 @@ async function getVersion() {
 
   for ( let i = 0; i < counties.length; i++) {
     const county = counties[i]
-    const url = county.url + '/changelog.html'
+    const urlchangelog = county.url + '/changelog.html'
     console.log('== Analisando versão do município de', county.municipio)
-    await page.goto(url)
-    const versionBase = await page.$eval('.content h2:nth-of-type(2)', element => element.textContent)
-    const versaoSlice = versionBase.slice(0, 6)
-    const version = versaoSlice
+    const municipio = county.municipio
+    const url = county.url
+    const brasao = county.brasao
+    let version = ''
+    let date = ''
+    
 
-    const dateSlice = versionBase.slice(9, 26)
-    const date = dateSlice
-
-    const result = {url, version, date}
-    versionResult.push(result)
+    try{
+      await page.goto(urlchangelog)
+      const versionBase = await page.$eval('.content h2:nth-of-type(2)', element => element.textContent)
+      const versaoSlice = versionBase.slice(0, 6)
+      version = versaoSlice
+      const dateSlice = versionBase.slice(9, 26)
+      date = dateSlice
+         
+      const result = { municipio, urlchangelog, version, date, url, brasao}
+      versionResult.push(result)
+    } catch (e) {
+      version = 'xxx'
+      date = 'xxx'
+      const result = {municipio, urlchangelog, version, date, url, brasao }
+      versionResult.push(result)
+    }
   }
   console.table(versionResult)
 
@@ -34,5 +47,5 @@ async function getVersion() {
 await browser.close();
 
 }
-//getVersion()
+// getVersion()
 module.exports = getVersion

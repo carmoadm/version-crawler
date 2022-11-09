@@ -1,77 +1,130 @@
 [
   {
-    "url": "http://geo.alfredochaves.es.gov.br/changelog.html",
-    "version": "1.47.0",
-    "date": "25/04/2022"
+    "municipio": "Alfredo Chaves",
+    "urlchangelog": "http://geo.alfredochaves.es.gov.br/changelog.html",
+    "version": "1.62.3",
+    "date": "08/11/2022",
+    "url": "http://geo.alfredochaves.es.gov.br",
+    "brasao": "http://geo.alfredochaves.es.gov.br/rest/coleta/logo/160"
   },
   {
-    "url": "https://geo.arapongas.pr.gov.br/changelog.html",
-    "version": "1.46.1",
-    "date": "19/04/2022"
+    "municipio": "Arapongas",
+    "urlchangelog": "https://geo.arapongas.pr.gov.br/changelog.html",
+    "version": "1.50.0",
+    "date": "27/05/2022",
+    "url": "https://geo.arapongas.pr.gov.br",
+    "brasao": "https://geo.arapongas.pr.gov.br/rest/coleta/logo/166"
   },
   {
-    "url": "https://geo.bc.sc.gov.br/changelog.html",
-    "version": "1.47.0",
-    "date": "25/04/2022"
+    "municipio": "Balneário Camboriú",
+    "urlchangelog": "https://geo.bc.sc.gov.br/changelog.html",
+    "version": "1.60.0",
+    "date": "30/09/2022",
+    "url": "https://geo.bc.sc.gov.br",
+    "brasao": "https://geo.bc.sc.gov.br/rest/coleta/logo/151"
   },
   {
-    "url": "http://geo.bigua.sc.gov.br/changelog.html",
-    "version": "1.46.1",
-    "date": "19/04/2022"
+    "municipio": "Biguaçu",
+    "urlchangelog": "http://geo.bigua.sc.gov.br/changelog.html",
+    "version": "1.50.0",
+    "date": "27/05/2022",
+    "url": "http://geo.bigua.sc.gov.br",
+    "brasao": "http://geo.bigua.sc.gov.br/rest/coleta/logo/161"
   },
   {
-    "url": "http://geomais.camacari.ba.gov.br/changelog.html",
-    "version": "1.46.1",
-    "date": "19/04/2022"
+    "municipio": "Bombinhas",
+    "urlchangelog": "http://geo.bombinhas.sc.gov.br:8080/changelog.html",
+    "version": "1.60.0",
+    "date": "RELEASE-CANDIDATE",
+    "url": "http://geo.bombinhas.sc.gov.br:8080",
+    "brasao": "http://geo.bombinhas.sc.gov.br:8080/rest/coleta/logo/13"
   },
   {
-    "url": "http://geo.ibirama.sc.gov.br:8082/changelog.html",
-    "version": "1.45.0",
-    "date": "08/04/2022"
+    "municipio": "Camaçari",
+    "urlchangelog": "http://geomais.camacari.ba.gov.br/changelog.html",
+    "version": "1.60.0",
+    "date": "RELEASE-CANDIDATE",
+    "url": "http://geomais.camacari.ba.gov.br",
+    "brasao": "http://geomais.camacari.ba.gov.br/rest/coleta/logo/127"
   },
   {
-    "url": "http://geo.itapema.sc.gov.br:8091/changelog.html",
-    "version": "1.46.1",
-    "date": "19/04/2022"
+    "municipio": "Ibirama",
+    "urlchangelog": "http://geo.ibirama.sc.gov.br:8082/changelog.html",
+    "version": "1.57.2",
+    "date": "24/08/2022",
+    "url": "http://geo.ibirama.sc.gov.br:8082",
+    "brasao": "http://geo.ibirama.sc.gov.br:8082/rest/coleta/logo/126"
   },
   {
-    "url": "http://162.214.203.123:8081/changelog.html",
-    "version": "1.47.0",
-    "date": "25/04/2022"
+    "municipio": "Itapema",
+    "urlchangelog": "http://geo.itapema.sc.gov.br:8091/changelog.html",
+    "version": "1.61.1",
+    "date": "19/10/2022",
+    "url": "http://geo.itapema.sc.gov.br:8091",
+    "brasao": "http://geo.itapema.sc.gov.br:8091/rest/coleta/logo/135"
   },
   {
-    "url": "http://177.33.186.184:8080/changelog.html",
-    "version": "1.47.0",
-    "date": "25/04/2022"
+    "municipio": "Jacareí",
+    "urlchangelog": "http://162.214.203.123:8081/changelog.html",
+    "version": "1.62.3",
+    "date": "08/11/2022",
+    "url": "http://162.214.203.123:8081",
+    "brasao": "http://162.214.203.123:8081/rest/coleta/logo/7"
   },
   {
-    "url": "http://geo.navegantes.sc.gov.br/changelog.html",
-    "version": "1.43.3",
-    "date": "15/03/2022"
+    "municipio": "Jaraguá do Sul",
+    "urlchangelog": "http://177.33.186.184:8080/changelog.html",
+    "version": "xxx",
+    "date": "xxx",
+    "url": "http://177.33.186.184:8080",
+    "brasao": "http://177.33.186.184:8080/rest/coleta/logo/181"
   },
   {
-    "url": "http://201.59.100.253:3080/changelog.html",
-    "version": "1.43.2",
-    "date": "11/03/2022"
+    "municipio": "Navegantes",
+    "urlchangelog": "http://geo.navegantes.sc.gov.br/changelog.html",
+    "version": "1.56.6",
+    "date": "04/08/2022",
+    "url": "http://geo.navegantes.sc.gov.br",
+    "brasao": "http://geo.navegantes.sc.gov.br/rest/coleta/logo/110"
   },
   {
-    "url": "http://geo.paranacidade.pr.gov.br/changelog.html",
-    "version": "1.40.0",
-    "date": "14/02/2022"
+    "municipio": "Nova Venécia",
+    "urlchangelog": "http://201.59.100.253:3080/changelog.html",
+    "version": "xxx",
+    "date": "xxx",
+    "url": "http://201.59.100.253:3080",
+    "brasao": "http://201.59.100.253:3080/rest/coleta/logo/161"
   },
   {
-    "url": "http://177.85.24.243:25480/changelog.html",
-    "version": "1.47.0",
-    "date": "25/04/2022"
+    "municipio": "ParanaCidade",
+    "urlchangelog": "http://geo.paranacidade.pr.gov.br/changelog.html",
+    "version": "1.61.1",
+    "date": "19/10/2022",
+    "url": "http://geo.paranacidade.pr.gov.br",
+    "brasao": "http://geo.paranacidade.pr.gov.br/rest/coleta/logo/300"
   },
   {
-    "url": "https://geo.timbo.sc.gov.br/changelog.html",
-    "version": "1.43.3",
-    "date": "15/03/2022"
+    "municipio": "Santo Ângelo",
+    "urlchangelog": "http://177.85.24.243:25480/changelog.html",
+    "version": "1.58.1",
+    "date": "06/09/2022",
+    "url": "http://177.85.24.243:25480",
+    "brasao": "http://177.85.24.243:25480/rest/coleta/logo/119"
   },
   {
-    "url": "http://187.87.208.107:3390/changelog.html",
-    "version": "1.46.0",
-    "date": "14/04/2022"
+    "municipio": "Timbó",
+    "urlchangelog": "https://geo.timbo.sc.gov.br/changelog.html",
+    "version": "1.61.1",
+    "date": "19/10/2022",
+    "url": "https://geo.timbo.sc.gov.br",
+    "brasao": "https://geo.timbo.sc.gov.br/rest/coleta/logo/96"
+  },
+  {
+    "municipio": "Umuarama",
+    "urlchangelog": "http://187.87.208.107:3390/changelog.html",
+    "version": "1.60.0",
+    "date": "30/09/2022",
+    "url": "http://187.87.208.107:3390",
+    "brasao": "http://187.87.208.107:3390/rest/coleta/logo/156"
   }
 ]
