@@ -16,6 +16,7 @@ async function getVersion() {
     const brasao = county.brasao
     let version = ''
     let date = ''
+    const suporte = county.suporte
     
 
     try{
@@ -26,12 +27,12 @@ async function getVersion() {
       const dateSlice = versionBase.slice(9, 26)
       date = dateSlice
          
-      const result = { municipio, urlchangelog, version, date, url, brasao}
+      const result = { municipio, urlchangelog, version, date, url, brasao, suporte}
       versionResult.push(result)
     } catch (e) {
       version = 'xxx'
       date = 'xxx'
-      const result = {municipio, urlchangelog, version, date, url, brasao }
+      const result = {municipio, urlchangelog, version, date, url, brasao, suporte }
       versionResult.push(result)
     }
   }

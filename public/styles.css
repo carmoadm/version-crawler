@@ -103,7 +103,7 @@ section {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    width: 1200px;
+    width: 1700px;
     margin: auto;
 
     padding: 1.25rem 0 1.25rem 0;
@@ -293,5 +293,7 @@ footer p {
 }    
 
 
-
+.support {
+    margin: 0 auto;
+}
 /* ----- Modal styles ----- */

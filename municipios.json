@@ -2,91 +2,127 @@
   {
     "municipio": "Alfredo Chaves",
     "url": "http://geo.alfredochaves.es.gov.br",
-    "brasao": "http://geo.alfredochaves.es.gov.br/rest/coleta/logo/160"
+    "brasao": "http://geo.alfredochaves.es.gov.br/rest/coleta/logo/160",
+    "suporte": true
   },
   {
       "municipio": "Arapongas",
       "url": "https://geo.arapongas.pr.gov.br",
-      "brasao": "https://geo.arapongas.pr.gov.br/rest/coleta/logo/166"
+      "brasao": "https://geo.arapongas.pr.gov.br/rest/coleta/logo/166",
+      "suporte": false
   },
   {
       "municipio": "Balneário Camboriú",
       "url": "https://geo.bc.sc.gov.br",
-      "brasao": "https://geo.bc.sc.gov.br/rest/coleta/logo/151"
+      "brasao": "https://geo.bc.sc.gov.br/rest/coleta/logo/151",
+      "suporte": false
   },
   {
       "municipio": "Biguaçu",
       "url": "http://geo.bigua.sc.gov.br",
-      "brasao": "http://geo.bigua.sc.gov.br/rest/coleta/logo/161"
+      "brasao": "http://geo.bigua.sc.gov.br/rest/coleta/logo/161",
+      "suporte": false
   },
   {
       "municipio": "Bombinhas",
       "url": "http://geo.bombinhas.sc.gov.br:8080",
-      "brasao": "http://geo.bombinhas.sc.gov.br:8080/rest/coleta/logo/13"
+      "brasao": "http://geo.bombinhas.sc.gov.br:8080/rest/coleta/logo/13",
+      "suporte": false
   },
   {
       "municipio": "Camaçari",
       "url": "http://geomais.camacari.ba.gov.br",
-      "brasao": "http://geomais.camacari.ba.gov.br/rest/coleta/logo/127"
+      "brasao": "http://geomais.camacari.ba.gov.br/rest/coleta/logo/127",
+      "suporte": true
   },
   {
       "municipio": "Ibirama",
       "url": "http://geo.ibirama.sc.gov.br:8082",
-      "brasao": "http://geo.ibirama.sc.gov.br:8082/rest/coleta/logo/126"
+      "brasao": "http://geo.ibirama.sc.gov.br:8082/rest/coleta/logo/126",
+      "suporte": true
   },
   {
       "municipio": "Itapema",
       "url": "http://geo.itapema.sc.gov.br:8091",
-      "brasao": "http://geo.itapema.sc.gov.br:8091/rest/coleta/logo/135" 
+      "brasao": "http://geo.itapema.sc.gov.br:8091/rest/coleta/logo/135",
+      "suporte": true
   },
   {
       "municipio": "Jacareí",
       "url": "http://162.214.203.123:8081",
-      "brasao": "http://162.214.203.123:8081/rest/coleta/logo/7"
+      "brasao": "http://162.214.203.123:8081/rest/coleta/logo/7",
+      "suporte": false
   },
   {
     "municipio": "Jaraguá do Sul",
     "url": "http://200.192.64.92",
-    "brasao": "http://200.192.64.92/rest/coleta/logo/181"
+    "brasao": "http://200.192.64.92/rest/coleta/logo/181",
+    "suporte": false
   },
   {
       "municipio": "Navegantes",
       "url": "http://geo.navegantes.sc.gov.br",
-      "brasao": "http://geo.navegantes.sc.gov.br/rest/coleta/logo/110"
+      "brasao": "http://geo.navegantes.sc.gov.br/rest/coleta/logo/110",
+      "suporte": false
   },
   {
       "municipio": "Nova Venécia",
       "url": "http://201.59.100.253",
-      "brasao": "http://201.59.100.253/rest/coleta/logo/161"
+      "brasao": "http://201.59.100.253/rest/coleta/logo/161",
+      "suporte": false
   },
   {
     "municipio": "ParanaCidade",
     "url": "http://geo.paranacidade.pr.gov.br",
-    "brasao": "http://geo.paranacidade.pr.gov.br/rest/coleta/logo/300"
+    "brasao": "http://geo.paranacidade.pr.gov.br/rest/coleta/logo/300",
+    "suporte": false
   },
   {
       "municipio": "Santo Ângelo",
       "url": "http://177.85.24.243:25480",
-      "brasao": "http://177.85.24.243:25480/rest/coleta/logo/119"
+      "brasao": "http://177.85.24.243:25480/rest/coleta/logo/119",
+      "suporte": true
   },
   {
       "municipio": "Timbó",
       "url": "https://geo.timbo.sc.gov.br",
-      "brasao": "https://geo.timbo.sc.gov.br/rest/coleta/logo/96"
+      "brasao": "https://geo.timbo.sc.gov.br/rest/coleta/logo/96",
+      "suporte": true
   },
   {
       "municipio": "Umuarama",
       "url": "http://187.87.208.107:3390",
-      "brasao": "http://187.87.208.107:3390/rest/coleta/logo/156"
+      "brasao": "http://187.87.208.107:3390/rest/coleta/logo/156",
+      "suporte": true
   },
   {
     "municipio": "Santo Amaro",
     "url": "http://132.255.56.122/",
-    "brasao": "http://132.255.56.122/rest/coleta/logo/1"
+    "brasao": "http://132.255.56.122/rest/coleta/logo/1",
+    "suporte": false
   },
   {
     "municipio": "Produção",
     "url": "http://172.20.1.92",
-    "brasao": "https://img.freepik.com/free-vector/illustration-pen-icon_53876-5590.jpg?w=826&t=st=1667993342"
+    "brasao": "https://img.freepik.com/free-vector/illustration-pen-icon_53876-5590.jpg?w=826&t=st=1667993342",
+    "suporte": false
+  },
+  {
+    "municipio": "Governador Valadares",
+    "url": "http://intranet.valadares.mg.gov.br:85/",
+    "brasao": "http://intranet.valadares.mg.gov.br:85/rest/coleta/logo/117",
+    "suporte": false
+  },
+  {
+    "municipio": "Panambi",
+    "url": "http://45.235.244.18",
+    "brasao": "http://45.235.244.18/rest/coleta/logo/98",
+    "suporte": true
+  },
+  {
+    "municipio": "Rio Negrinho",
+    "url": "http://143.208.156.188/",
+    "brasao": "http://143.208.156.188/rest/coleta/logo/172",
+    "suporte": true
   }
 ]
