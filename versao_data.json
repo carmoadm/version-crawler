@@ -73,11 +73,11 @@
   },
   {
     "municipio": "Jaraguá do Sul",
-    "urlchangelog": "http://177.33.186.184:8080/changelog.html",
-    "version": "xxx",
-    "date": "xxx",
-    "url": "http://177.33.186.184:8080",
-    "brasao": "http://177.33.186.184:8080/rest/coleta/logo/181"
+    "urlchangelog": "http://200.192.64.92/changelog.html",
+    "version": "1.61.0",
+    "date": "RELEASE-CANDIDATE",
+    "url": "http://200.192.64.92",
+    "brasao": "http://200.192.64.92/rest/coleta/logo/181"
   },
   {
     "municipio": "Navegantes",
@@ -89,11 +89,11 @@
   },
   {
     "municipio": "Nova Venécia",
-    "urlchangelog": "http://201.59.100.253:3080/changelog.html",
-    "version": "xxx",
-    "date": "xxx",
-    "url": "http://201.59.100.253:3080",
-    "brasao": "http://201.59.100.253:3080/rest/coleta/logo/161"
+    "urlchangelog": "http://201.59.100.253/changelog.html",
+    "version": "1.61.1",
+    "date": "19/10/2022",
+    "url": "http://201.59.100.253",
+    "brasao": "http://201.59.100.253/rest/coleta/logo/161"
   },
   {
     "municipio": "ParanaCidade",
@@ -126,5 +126,21 @@
     "date": "30/09/2022",
     "url": "http://187.87.208.107:3390",
     "brasao": "http://187.87.208.107:3390/rest/coleta/logo/156"
+  },
+  {
+    "municipio": "Santo Amaro",
+    "urlchangelog": "http://132.255.56.122//changelog.html",
+    "version": "1.62.3",
+    "date": "08/11/2022",
+    "url": "http://132.255.56.122/",
+    "brasao": "http://132.255.56.122/rest/coleta/logo/1"
+  },
+  {
+    "municipio": "Produção",
+    "urlchangelog": "http://172.20.1.92/changelog.html",
+    "version": "1.60.0",
+    "date": "30/09/2022",
+    "url": "http://172.20.1.92",
+    "brasao": "https://img.freepik.com/free-vector/illustration-pen-icon_53876-5590.jpg?w=826&t=st=1667993342"
   }
 ]

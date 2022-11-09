@@ -46,8 +46,8 @@
   },
   {
     "municipio": "Jaraguá do Sul",
-    "url": "http://177.33.186.184:8080",
-    "brasao": "http://177.33.186.184:8080/rest/coleta/logo/181"
+    "url": "http://200.192.64.92",
+    "brasao": "http://200.192.64.92/rest/coleta/logo/181"
   },
   {
       "municipio": "Navegantes",
@@ -56,8 +56,8 @@
   },
   {
       "municipio": "Nova Venécia",
-      "url": "http://201.59.100.253:3080",
-      "brasao": "http://201.59.100.253:3080/rest/coleta/logo/161"
+      "url": "http://201.59.100.253",
+      "brasao": "http://201.59.100.253/rest/coleta/logo/161"
   },
   {
     "municipio": "ParanaCidade",
@@ -78,5 +78,15 @@
       "municipio": "Umuarama",
       "url": "http://187.87.208.107:3390",
       "brasao": "http://187.87.208.107:3390/rest/coleta/logo/156"
+  },
+  {
+    "municipio": "Santo Amaro",
+    "url": "http://132.255.56.122/",
+    "brasao": "http://132.255.56.122/rest/coleta/logo/1"
+  },
+  {
+    "municipio": "Produção",
+    "url": "http://172.20.1.92",
+    "brasao": "https://img.freepik.com/free-vector/illustration-pen-icon_53876-5590.jpg?w=826&t=st=1667993342"
   }
 ]
