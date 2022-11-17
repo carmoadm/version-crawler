@@ -104,7 +104,7 @@
   {
     "municipio": "Produção",
     "url": "http://172.20.1.92",
-    "brasao": "https://img.freepik.com/free-vector/illustration-pen-icon_53876-5590.jpg?w=826&t=st=1667993342",
+    "brasao": "https://avatars.githubusercontent.com/u/70327748?s=280&v=4",
     "suporte": false
   },
   {
@@ -124,5 +124,36 @@
     "url": "http://143.208.156.188/",
     "brasao": "http://143.208.156.188/rest/coleta/logo/172",
     "suporte": true
+  },
+  {
+    "municipio": "Anápolis",
+    "url": "http://www.geo.anapolis.go.gov.br:8135/",
+    "brasao": "http://www.geo.anapolis.go.gov.br:8135/rest/coleta/logo/155",
+    "suporte": true
+  },
+  {
+    "municipio": "Treinamento",
+    "url": "http://172.20.1.84",
+    "brasao": "https://avatars.githubusercontent.com/u/70327748?s=280&v=4",
+    "suporte": true
+  },
+  {
+    "municipio": "Homologação",
+    "url": "http://172.20.1.43",
+    "brasao": "https://avatars.githubusercontent.com/u/70327748?s=280&v=4",
+    "suporte": true
+  },
+  {
+    "municipio": "Carazinho",
+    "url": "http://177.70.79.77/",
+    "brasao": "http://177.70.79.77/rest/coleta/logo/142",
+    "suporte": true
+  },
+  {
+    "municipio": "Piraquara",
+    "url": "http://geo.piraquara.pr.gov.br/",
+    "brasao": "http://geo.piraquara.pr.gov.br/rest/coleta/logo/152",
+    "suporte": false
   }
+  
 ]

@@ -36,7 +36,7 @@ async function getVersion() {
       versionResult.push(result)
     }
   }
-  console.table(versionResult)
+  // console.table(versionResult)
 
   //escrevendo os dados em um arquivo local (json)
   fs.writeFile('versao_data.json', JSON.stringify(versionResult, null, 2), err => {
